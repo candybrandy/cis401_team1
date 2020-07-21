@@ -1,0 +1,285 @@
+commit a23aa86ab925212c45dcd956f49789f3c837293b
+Merge: 7a13b65 ad449a4
+Author: Tim-CSUEB <66396578+Tim-CSUEB@users.noreply.github.com>
+Date:   Wed Jul 15 15:56:16 2020 -0700
+
+    Merge branch 'master' into Server
+
+commit 7a13b657598b6a5b3ad79232f1ef24411fc55089
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Wed Jul 15 15:50:13 2020 -0700
+
+    Updates after meeting
+
+commit 68afd00d5a8b4bdd91d15331099b788323f025a1
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 13:33:11 2020 -0700
+
+    adding package name
+
+commit fd3137dfd33b73a99a2363d96c3bcb5bce4dcf99
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 13:29:18 2020 -0700
+
+    Revert "adding package name"
+    
+    This reverts commit 743d57a677161a227d2f98ac2070adfff9e1f01a.
+
+commit 743d57a677161a227d2f98ac2070adfff9e1f01a
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 13:28:05 2020 -0700
+
+    adding package name
+
+commit ad449a4888841979fc3d4d526565b2d951be2f3f
+Merge: 9fd97e8 2edc052
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jul 15 13:00:15 2020 -0700
+
+    Merge pull request #9 from dhungelaastha07/feature/client-structure
+    
+    client-structure code
+
+commit 2edc0523a4638172664660c0273023540341acba
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 12:47:28 2020 -0700
+
+    clent-structure code
+
+commit 25b2992dc8d51422f367ccf9fff98540c4b606a9
+Merge: 763a524 9fd97e8
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 12:19:58 2020 -0700
+
+    Merge remote-tracking branch 'upstream/master' into 07_08version
+
+commit 9fd97e81d6a30013a68a9438eeaba6d4711fa0ac
+Merge: f5bc7a8 e0fa1d9
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jul 15 11:54:32 2020 -0700
+
+    Merge pull request #8 from dhungelaastha07/client-feature/contacts
+    
+    Changes in login/contact/chatbox
+
+commit e0fa1d937bacacd3893baae70ffc66d47eb79ae2
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 11:50:37 2020 -0700
+
+    Changes in login/contact/chatbox
+
+commit 763a524650f5b1f63bdbcfbd122e6f2bd31f57b2
+Merge: 65c8e52 f5bc7a8
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 15 09:36:54 2020 -0700
+
+    Merge remote-tracking branch 'upstream/master' into 07_08version
+
+commit f5bc7a8053fc9a9de8809c66b551dff00ca2958d
+Merge: 6649d18 85e07d0
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Tue Jul 14 20:11:46 2020 -0700
+
+    Merge pull request #7 from Tim-CSUEB/Server
+    
+    Server
+
+commit 85e07d08516b7574fd6abb7c7a72f23df01c71ca
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Tue Jul 14 20:10:32 2020 -0700
+
+    Added message class
+
+commit fdc6ab6ece4b8213f01eea3db4b9fb92f429ea39
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Tue Jul 14 20:07:41 2020 -0700
+
+    from origin
+
+commit 8f8e56402ccb84fb37a06f7be67becad81a39d7d
+Merge: 4fa8ffc 6649d18
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Wed Jul 8 15:22:11 2020 -0700
+
+    Merge branch 'master' of https://github.com/dhungelaastha07/cis401_team1.git into Server
+
+commit 4fa8ffc4cd561f980e2e77b13d6a66810afb7715
+Merge: fb50b44 357addc
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Wed Jul 8 15:22:04 2020 -0700
+
+    Merge branch 'client-feature/contacts' of https://github.com/dhungelaastha07/cis401_team1.git into Server
+
+commit fb50b4421629e86ee6261c1ccc7be8e6704ef0f5
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Wed Jul 8 15:19:20 2020 -0700
+
+    Just added some comments about the server class uses.
+
+commit 65c8e528227fe72fdfbbbfdd8f161949c2fad398
+Merge: 6649d18 0e9c4d0
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 8 14:32:15 2020 -0700
+
+    Merge branch 'master' into 07_08version
+
+commit 22ca32f03a24b248f391f42a2626f32b2d276fac
+Merge: 394b40c 2849910
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 8 14:30:54 2020 -0700
+
+    On signup: !!GitHub_Desktop<client-feature/signup>
+
+commit 28499104d53903ccc8a863a6d637edb3f3f0a043
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 8 14:30:54 2020 -0700
+
+    index on signup: 394b40c Login GUI setup
+
+commit 0e9c4d0b65b8c833d7cfd65a1fbdb6542fa0f2c5
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jul 8 14:25:58 2020 -0700
+
+    07/08 updates
+
+commit 6649d18347a8d0971cd534432ae5745a423109b1
+Merge: 28f51fe 357addc
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jul 8 12:36:56 2020 -0700
+
+    Merge pull request #5 from dhungelaastha07/client-feature/contacts
+    
+    Actions implementation
+
+commit 357addc27afe0766b4eb59c04795c65715f8b300
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jul 8 12:31:35 2020 -0700
+
+    Actions implementation
+
+commit 28f51fe51206aaacc35ca4f0c2fdb69ad51f8646
+Merge: 7ac88e2 8d3fc27
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jun 24 11:20:12 2020 -0700
+
+    Merge pull request #4 from dhungelaastha07/client-feature/contacts
+    
+    contact page GUI implementation
+
+commit b8cb89b83c6b5e1901f70238551a44a9af6789c6
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 24 11:10:19 2020 -0700
+
+    Added a ChatHistory class
+
+commit 42bb9da634db5ed6a85079a78795291ecf2a80b5
+Merge: e4e97a1 94e04ad
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 24 11:01:50 2020 -0700
+
+    Merge branch 'pr/4'
+
+commit 94e04ad8817ecacf287891ef9c51c63586e59985
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 24 10:31:11 2020 -0700
+
+    Create Server.class
+
+commit e4e97a1d25f89e29f3eebb41419221ca102600e1
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 24 10:30:05 2020 -0700
+
+    Create .gitignore
+
+commit 8d3fc27f3ed637ebef645d5557172bef057e5171
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Wed Jun 24 10:11:19 2020 -0700
+
+    contact page GUI implementation
+
+commit 7ac88e235d0d4a73dd70b888c62a66b062005c2a
+Merge: 7791d9d 394b40c
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jun 17 10:47:35 2020 -0700
+
+    Merge pull request #2 from dhungelaastha07/client-feature/signup
+    
+    Login GUI setup
+
+commit 7791d9d8e693a52329af5e64997e6e2b4176634f
+Merge: fd61c19 5ee3ffd
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Wed Jun 17 10:47:18 2020 -0700
+
+    Merge pull request #3 from candybrandy/master
+    
+    Created an empty User Class?
+
+commit 9fccd6a4911c00b892e5b29d73282ff8dfbf2649
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 17 02:37:50 2020 -0700
+
+    Created an empty User Class
+
+commit 5ee3ffd824e6689d37baac104005fccff1330e45
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 17 02:26:07 2020 -0700
+
+    Revert "Revert "Created an empty User class""
+    
+    This reverts commit 9bbe4604641edc218b2d86b4913b9a5698c65474.
+
+commit 9bbe4604641edc218b2d86b4913b9a5698c65474
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 17 02:25:36 2020 -0700
+
+    Revert "Created an empty User class"
+    
+    This reverts commit 3e4e5992020b428c99a0795d3685c88d73b14504.
+
+commit 3e4e5992020b428c99a0795d3685c88d73b14504
+Author: brandy <bredic2@horizon.csueastbay.edu>
+Date:   Wed Jun 17 02:02:57 2020 -0700
+
+    Created an empty User class
+
+commit fd61c198f8ba7ad71259a3463451e5f6c1a9b3e5
+Merge: e200eb4 418fa80
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Tue Jun 16 23:48:40 2020 -0700
+
+    Merge pull request #1 from Tim-CSUEB/Server
+    
+    Added Server class (no code) for future use.
+
+commit 418fa807b2376430cbbc040b768b05e7f4699f48
+Author: Timothy Ball <tball3@horizon.csueastbay.edu>
+Date:   Tue Jun 16 23:33:34 2020 -0700
+
+    Added Server class (no code) for future use.
+
+commit 394b40ce1ea27583c06a0da803cc3e1fd5b0e3df
+Author: dhungelaastha07 <adhungel2@horizon.csueastbay.edu>
+Date:   Tue Jun 16 23:15:45 2020 -0700
+
+    Login GUI setup
+
+commit e200eb450aaa0c4c4ef46d565c63f3a5a0412ded
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Thu Jun 4 15:36:13 2020 -0700
+
+    Readme Setup
+    
+    Adding new readme to project.
+
+commit f8fbb6f776f196ab6d845c5fe03b383d3085ac07
+Author: dhungelaastha07 <66445374+dhungelaastha07@users.noreply.github.com>
+Date:   Thu Jun 4 15:21:55 2020 -0700
+
+    Delete Hello.class
+
+commit 712db319436e763b438b837a3071df8055b244d0
+Author: Safal <safal.basnet04@gmail.com>
+Date:   Thu Jun 4 15:15:21 2020 -0700
+
+    first commit
