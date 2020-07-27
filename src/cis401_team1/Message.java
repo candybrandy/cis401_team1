@@ -22,20 +22,20 @@ public class Message implements Serializable{
     }
 
 	public String getText() {
-        return text;
+        return this.text;
     }
 
     public int getID(){
-        return id;
+        return this.id;
     }
     
     public String[] getUsers() {
-        return userID;
+        return this.userID;
     }
     
 
     public String getType(){
-        return type;
+        return this.type;
     }
     
     public String toString() {

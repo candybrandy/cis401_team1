@@ -1,8 +1,5 @@
 package cis401_team1;
-<<<<<<< HEAD:cis401_team1/src/cis401_team1/ContactPage.java
-=======
 
->>>>>>> upstream/master:src/cis401_team1/ContactPage.java
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
